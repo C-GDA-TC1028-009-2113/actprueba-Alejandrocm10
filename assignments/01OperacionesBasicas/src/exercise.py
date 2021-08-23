@@ -1,5 +1,13 @@
 def main():
     #escribe tu código abajo de esta línea
+    numero_1 = int(input("Ingresa un numero: "))
+    numero_2 = int(input("Ingresa un numero: "))
+    suma = numero_1 + numero_2
+    resta = numero_1 - numero_2
+    multiplicación = numero_1 * numero_2
+    print (suma)
+    print (resta)
+    print (multiplicación)
 
 
 
